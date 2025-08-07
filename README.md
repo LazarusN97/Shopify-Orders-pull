@@ -35,3 +35,7 @@ This project automates the process of retrieving Shopify orders, classifying del
 ```bash
 pip install -r requirements.txt
 
+## Example Output
+![Shopify Google Dashboard](Screenshot.png)
+
+
